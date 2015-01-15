@@ -106,7 +106,11 @@
       "name": "Web Development",
       "level": "Master",
       "keywords": [
-        "MVC"
+        "MVC",
+	"HTML",
+	"CSS",
+	"JavaScript",
+	"jQuery"
       ]
     },
     {
@@ -115,6 +119,22 @@
 	"keywords": [
 		"SQL Server 2008/2012",
 		"MySQL"
+	]
+    },
+    {
+    	"name": "Microsoft Technology Stack",
+	"level": "Competent",
+	"keywords": [
+		"WPF",
+		"WCF"
+	]
+    },
+    {
+    	"name": "Source Control Systems",
+	"level": "Competent",
+	"keywords": [
+		"Git",
+		"TFS"
 	]
     },
     {
