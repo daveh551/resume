@@ -19,117 +19,122 @@
         "network": "Twitter",
         "username": "daveh551",
         "url": "http://twitter.com/daveh551"
-      }
+      },
       {
         "network": "Github",
         "username": "daveh551",
         "url": "https://github.com/daveh551"
-      }
+      },
       {
         "network": "Skype",
         "username": "daveh551",
         "url": ""
-      }
+      },
+      { "network": "Facebook",
+      	"username": "Dave Hanna",
+	"url": ""
+      }	
     ]
   },
   "work": [
     {
       "company": "Mary Kay Cosmetics (Contract)",
       "position": "Software Developer",
-      "website": "http://piedpiper.com",
+      "website": "http://marykay.com",
       "startDate": "2011-09-12",
-      "endDate": "Present",
-      "summary": "Mary Kay's mission is to empower women to transform their lives and achieve financial success through independent marketing of cosmetics and beauty products."
+      "summary": "Worked in enhancing and supporting the application used by Mary Kay's customer service team in supporting their independent beauty consultants around the globe. Activities included implementing new features, investigating and correcting bugs, and supporting application launch in new areas of the world",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
       ]
+    },
+    {
+    	"company": "Bank of America (Contract)",
+	"position": "Software Developer",
+	"startDate": "2010-08-23",
+	"endDate": "2011-09-09",
+	"summary": "Worked with home mortgate division implementing a new application to aggregate mortgage rating information from a number of sources into one presentation."
     }
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "organization": "Dallas GiveCamp 2014",
+      "position": "Implementer",
+      "website": "http://dallasgivecamp.org",
+      "startDate": "2014-10-17",
+      "endDate": "2014-10-19",
+      "summary": "Organization bringing geeks togther for one intense weekend to help charitable organizations apply technology to their individual missions and needs",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
+      "institution": "Drexel University",
+      "area": "Electrical Engineering",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "startDate": "1969-09-15",
+      "endDate": "1974-06-01",
+      "gpa": "3.91",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
       ]
-    }
-  ],
-  "awards": [
+    },
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
-    }
+    	"institution": "Stanford University",
+	"area": "Linguistics, Computer Science",
+	"studyType": "Masters",
+	"startDate": "1974-09-23",
+	"endDate": "1975-08-31"
+     },
+     {
+     	"institution": "University of Santa Clara",
+	"area": "Computers Science and Electrical Engineering",
+	"studyType": "Masters"
+
+     }
+
   ],
   "skills": [
+    {
+      "name": "C# and .NET",
+      "level": "Master",
+      "keywords": [
+        "C#",
+        "VB.NET",
+	"Visual Studio 2008/2010/2012/2013"
+      ]
+    },
     {
       "name": "Web Development",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "MVC"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
-      ]
+    	"name": "SQL",
+	"level": "Competent",
+	"keywords": [
+		"SQL Server 2008/2012",
+		"MySQL"
+	]
     }
   ],
   "languages": [
     {
       "language": "English",
       "fluency": "Native speaker"
+    },
+    {
+    	"language": "Spanish",
+	"fluency": "barely functional"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "references": [
+      "name": "Forex Trading"
+    },
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    	"name": "Running"
     }
   ]
+  
 }
