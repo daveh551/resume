@@ -52,6 +52,13 @@
 	"startDate": "2010-08-23",
 	"endDate": "2011-09-09",
 	"summary": "Worked with home mortgate division implementing a new application to aggregate mortgage rating information from a number of sources into one presentation."
+    },
+    {
+    	"company": "ThyssenKrupp Elevator",
+	"position": "Senior Software Developer",
+	"startDate": "2008-07-31",
+	"endDate": "2010-08-20",
+	"summary": "Enhanced and supported various program used by the business in support of sales and maintenance contracts for elevator installations around the US"
     }
   ],
   "volunteer": [
@@ -160,7 +167,14 @@
       "name": "Forex Trading"
     },
     {
-    	"name": "Running"
+    	"name": "Running",
+	"keywords": [
+		"5K",
+		"Half Marathon"
+	]
+    },
+    {
+    	"name": "Photography"
     }
   ]
   
