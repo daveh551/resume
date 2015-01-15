@@ -116,6 +116,13 @@
 		"SQL Server 2008/2012",
 		"MySQL"
 	]
+    },
+    {
+    	"name": "Cloud Computing",
+	"level": "Competent",
+	"keywords":[
+		"Azure Websites"
+	]
     }
   ],
   "languages": [
@@ -125,7 +132,7 @@
     },
     {
     	"language": "Spanish",
-	"fluency": "barely functional"
+	"fluency":  "functional"
     }
   ],
   "interests": [
