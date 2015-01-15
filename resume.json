@@ -71,6 +71,13 @@
       "summary": "Organization bringing geeks togther for one intense weekend to help charitable organizations apply technology to their individual missions and needs",
       "highlights": [
       ]
+    },
+    {
+    	"organization": "Frisco Bible Church",
+	"position": "Video Camera Operator",
+	"website": "http://friscobible.com",
+	"startDate": "2014-09-14",
+	"summary": "Operate video cameras for recording worship services"
     }
   ],
   "education": [
@@ -126,6 +133,16 @@
 	"keywords": [
 		"SQL Server 2008/2012",
 		"MySQL"
+	]
+    },
+    {
+    	"name": "Agile Development Methodology",
+	"level": "Competent",
+	"keywords":[
+		"Test Driven Development",
+		"Peer Code Review",
+		"Pair Programming",
+		"Continuous Integration"
 	]
     },
     {
