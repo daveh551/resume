@@ -113,7 +113,7 @@
       "keywords": [
         "C#",
         "VB.NET",
-	"Visual Studio 2008/2010/2012/2013"
+	"Visual Studio 2008/2010/2012/2013/2015"
       ]
     },
     {
@@ -124,14 +124,15 @@
 	"HTML",
 	"CSS",
 	"JavaScript",
-	"jQuery"
+	"jQuery",
+	"WebAPI"
       ]
     },
     {
     	"name": "SQL",
 	"level": "Competent",
 	"keywords": [
-		"SQL Server 2008/2012",
+		"SQL Server 2008/2012/2014",
 		"MySQL"
 	]
     },
