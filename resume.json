@@ -42,8 +42,12 @@
       "position": "Software Developer",
       "website": "http://marykay.com",
       "startDate": "2011-09-12",
+      "endDate": "2018-01-23"
       "summary": "Worked in enhancing and supporting the application used by Mary Kay's customer service team in supporting their independent beauty consultants around the globe. Activities included implementing new features, investigating and correcting bugs, and supporting application launch in new areas of the world",
       "highlights": [
+      "Converted a wide array of backend services from Windows-hosted services to IIS-Hosted services using WCF.",
+      "Implemented a WebAPI service to act as a generic call processing interface between telephony vendor's telephone switches and our customer service agents' desktops.",
+      "Worked as part of a team converting older generation WPF forms to a presentation layer using MVC and Angular."
       ]
     },
     {
@@ -168,7 +172,12 @@
 	"keywords":[
 		"Azure Websites"
 	]
+    },
+    {
+    	"name": "WordPress",
+	"level": "User",
     }
+
   ],
   "languages": [
     {
